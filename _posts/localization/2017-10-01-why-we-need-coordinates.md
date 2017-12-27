@@ -2,7 +2,7 @@
 layout: post
 title: 为什么测绘专业的课程要从坐标系出发？
 category: 导航定位
-tags: localization
+tags: 坐标系统
 keywords: coordinates
 description: why we need coordinates in spatial informatics
 ---

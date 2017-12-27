@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 三体
-category: 读书
-tags: Reading
+category: 随笔
+tags: 阅读
 keywords: 
 description: 
 ---

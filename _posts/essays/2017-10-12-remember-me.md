@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 寻梦环游记
-category: 观影
-tags: Movie
+category: 随笔
+tags: 影评
 keywords: 
 description: 
 ---
