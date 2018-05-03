@@ -1,5 +1,5 @@
 ---
-title: 缘起
+title: 关于为什么要写博客？
 layout: post
 ---
 
@@ -25,7 +25,7 @@ layout: post
 
 这个博客是通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题，也非常感谢闫肃[Github](https://github.com/suyan/suyan.github.io)的修改，我是从他的Github Fork过来的。
 
-##
+## 从现在开始
 
 前段时间读《人类简史》，提及人类最初发明的文字是数字，而作者认为之所以是这个结果是因为人类的大脑不太善于记忆数字。我想，不仅是数字或逻辑的东西，人的长时记忆能力也相对较弱，本来记忆场景就需要耗费精力，更何况还要为记忆建立索引，所以不仅为了忠于事实，还为了给回忆提醒，人类才发明文字这么伟大的东西。
 
