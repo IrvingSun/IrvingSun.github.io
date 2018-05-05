@@ -11,7 +11,7 @@ author: Keqiang Liu
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
 filter: 'category'
-recent_num: 20
+recent_num: 10
 
 # Social account
 twitter: Kitchen
@@ -26,12 +26,12 @@ favicon: /assets/icon/site_favicon.ico
 
 # disqus config
 disqus:
-  shortname: suyan-zh
+  shortname: KeqiangLiu
 
 # google analytics config
 ga:
-  id: UA-54767140-1
-  url: yansu.org
+  id: UA-118769883-1
+  url: keqiangliu.github.io
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
@@ -43,7 +43,7 @@ sass:
 
 # Jekyll Plugin
 # https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
