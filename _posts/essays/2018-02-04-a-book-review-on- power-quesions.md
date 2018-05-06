@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【读书报告】 提问的艺术
+title: 【读书】 提问的艺术
 category: 随笔
 tags: 读书报告
 keywords: book review, power questions

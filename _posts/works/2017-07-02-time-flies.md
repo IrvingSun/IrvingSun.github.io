@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【视频剪辑】 光阴的故事
+title: 【视频】 光阴的故事
 category: 作品
 tags: 视频剪辑
 keywords: 

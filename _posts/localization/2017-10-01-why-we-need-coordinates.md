@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 为什么学习测绘要从坐标系出发？
+title: 【学术】 为什么学习测绘要从坐标系出发？
 category: 导航定位
 tags: 坐标系统
 keywords: coordinates

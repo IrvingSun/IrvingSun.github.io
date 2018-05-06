@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【视频剪辑】 环测零七 留下回忆
+title: 【视频】 环测零七 留下回忆
 category: 作品
 tags: 视频剪辑
 keywords: 

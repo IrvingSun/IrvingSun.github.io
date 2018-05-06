@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 一篇关于雅思备战的总结
+title: 【总结】 一篇关于雅思备战的总结
 category: 随笔
 tags: 雅思考试
 keywords: IELTS test preparation
 description: a preparation method from keqiang
 ---
 
-<i>这是一篇2014年写的文章，开通博客后特整理过来。</i>
+*这是一篇2014年写的文章，开通博客后特整理过来。*
 
 刘克强
 

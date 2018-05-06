@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一篇关于室内定位技术的分享
+title: 【学术】 一篇关于室内定位技术的分享
 category: 导航定位
 tags: 室内定位
 keywords: indoor positioning systems
