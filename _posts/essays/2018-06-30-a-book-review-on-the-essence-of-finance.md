@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【读书】 金融的本质
+title: 【读书】 金融的逻辑
 category: 随笔
 tags: 读书报告
-keywords: book review, The essence of finance
-description: a book review on the essence of finance
+keywords: book review, The logic of finance
+description: a book review on the logic of finance
 ---
 
 刘克强
