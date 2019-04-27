@@ -9,8 +9,7 @@ description: why we need indoor positioning?
 
 *新开了一个个人公众号，希望用轻松活泼的方式分享自己在导航定位领域内的观点，欢迎关注！*
 
-<center>![个人公众号二维码](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzIwNDYyOTE1Nw==&mid=2247483721&idx=1&sn=e9de9bca76f4385ea9bfcef1976ceccf&send_time=)
-</center>
+![个人公众号二维码](/assets/img/20190326/qrcode.png)
 
 &nbsp;
 
@@ -19,8 +18,8 @@ description: why we need indoor positioning?
 这个观点博博刚入行的时候就很费解，费解的地方有两处：（1）人类有90%的时间在室内度过的，这么“精准的”数据怎么统计出来的？（2）人在室内时间多所以就要室内定位吗？
 
 &nbsp;
-#<center>01</center>
-###<center>人类有90%时间在室内度过？</center>
+##01
+###人类有90%时间在室内度过？
 &nbsp;
 
 首先来看一看“人类有90%时间在室内度过”，这个命题有没有问题。
@@ -33,13 +32,11 @@ description: why we need indoor positioning?
 
 不得不说，参考文献这种骚操作加上谷歌强大的搜索能力，让我可以从一篇引用这个观点的文献出发，然后去找参考文献，再找参考文献的参考文献……寻找到底是哪位大神发现了这种清奇的规律。还别说，最后还真找不下去了，说出来就怕你不笑话，最后停止的位置是来自美帝EPA(Environmental Protection Agency)和CPSC(Consumer Product Safety Commission) 1995年联合发布的一篇室内环境质量报告！
 
-<center>![个人公众号二维码](/assets/img/20190326/1.jpg)
-</center>
+![report_img1](/assets/img/20190326/1.jpg)
 
 一起来看报告上这句话有多么严谨：Other research indicates that people spend approximately 90 percent of their time indoors.  歌词大意：有关研究表明人类大约有90%时间在室内度过。哪个“其他研究”愣是没说，不知道究竟是因为道德的沦丧还是人性的泯灭，不得不说，这跟新闻里的专家表明、业内人士、有关单位有着异曲同工不负责任耍流氓的功效。 
 
-<center>![个人公众号二维码](/assets/img/20190326/2.jpg)
-</center>
+![report_img2](/assets/img/20190326/2.jpg)
 
 不过估计这篇报告的作者也万万没想到，可能是当年不经意间调（bian）查（zao）的数据，十几二十年后，竟然在室内定位领域大放异彩，被学术圈一本正经的互（yi）相（e）引（chuan）用（e）。
 
