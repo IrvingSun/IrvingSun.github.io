@@ -1,12 +1,12 @@
 # Site settings
-title: 刘克强的博客
-email: cumtlkq@outlook.com
+title: sunway的博客
+email: titansunway@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  刘克强的博客
+  sunway的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Keqiang Liu
+author: Sunway
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -14,11 +14,7 @@ filter: 'category'
 recent_num: 10
 
 # Social account
-twitter: Kitchen
-weibo: lkq07072978@sina.com
-github: KeqiangLiu
-instagram: KeqiangLiu
-linkedin: KeqiangLiu
+github: IrvingSun
 
 # avatar and Favicon
 avatar: /assets/img/site_avatar.png
@@ -26,12 +22,12 @@ favicon: /assets/icon/site_favicon.ico
 
 # disqus config
 disqus:
-  shortname: KeqiangLiu
+  shortname: Sunway
 
 # google analytics config
 ga:
   id: UA-118769883-1
-  url: keqiangliu.github.io
+  url: IrvingSun.github.io
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
